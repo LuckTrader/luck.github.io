@@ -1,1 +1,1 @@
-# luck.github.io
+# http://luck.github.io
